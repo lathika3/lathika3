@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'M Lathika, a Fullstack Developer 
+
+I'M mostly work on 
+Frontend - html, css, javascript
+Backend - spring boot, java
+Database - mysql
+
 <!--
 **lathika3/lathika3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
