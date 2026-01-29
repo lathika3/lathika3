@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-I'M Lathika, a Fullstack Developer 
+I am a passionate fresher learning Full Stack Development, focused on building real-world web applications.
 
-I'M mostly work on 
-Frontend - html, css, javascript
-Backend - spring boot, java
-Database - mysql
+I have hands-on experience with Java, Spring Boot, MySQL, HTML, and CSS, and have worked on projects like a Dance Class Management System with backend, database, and UI integration.
+
+Quick learner, consistent, and eager to grow as a developer.
+Actively looking for an entry-level opportunity or internship in Full Stack Development.
 
 <!--
 **lathika3/lathika3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
